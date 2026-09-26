@@ -8,10 +8,9 @@ I'm a BCA-AI student at **Narmada College of Science and Commerce**, exploring A
 
 I use AI tools as part of my development workflow — while the **ideas, logic, features, workflow, testing, and final direction** come from me.
 
----
 
 # 💫 About Me:
----<br><br>🧑‍💻 About Me<br><br>🎓 BCA-AI student, currently learning by building real projects.<br><br>🤖 I use AI as a development partner to turn my ideas into working applications.<br><br>🧠 I enjoy figuring out the logic, workflow, features, and user experience behind an idea.<br><br>🌐 Interested in AI, Machine Learning, Generative AI, and Web Development.<br><br>🚀 My approach is simple: **Learn → Build → Test → Improve → Ship**
+🎓 BCA-AI student, currently learning by building real projects.<br><br>🤖 I use AI as a development partner to turn my ideas into working applications.<br><br>🧠 I enjoy figuring out the logic, workflow, features, and user experience behind an idea.<br><br>🌐 Interested in AI, Machine Learning, Generative AI, and Web Development.<br><br>🚀 My approach is simple: **Learn → Build → Test → Improve → Ship**
 
 
 ## 🌐 Socials:
@@ -23,7 +22,3 @@ I use AI tools as part of my development workflow — while the **ideas, logic, 
 ![](https://github-readme-stats.shion.dev/api?username=BCA3026&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=BCA3026&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=BCA3026&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
-[![](https://komarev.com/ghpvc/?username=BCA3026&icon=10&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
