@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey, I'm Harsh Lalka
 
-<!--
-**BCA3026/BCA3026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA-AI Student • AI-Assisted Developer • Builder
 
-Here are some ideas to get you started:
+> **I bring the idea. AI helps me build it. I make it work.** 🤖🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a BCA-AI student at **Narmada College of Science and Commerce**, exploring Artificial Intelligence, Machine Learning, Web Development, and creative ways to turn ideas into working products.
+
+I use AI tools as part of my development workflow — while the **ideas, logic, features, workflow, testing, and final direction** come from me.
+
+---
+
+## 🧠 How I Build
+
+```text
+💡 IDEA
+   ↓
+🧩 LOGIC
+   ↓
+🤖 AI + TOOLS
+   ↓
+🛠️ BUILD
+   ↓
+🧪 TEST
+   ↓
+🚀 SHIP
